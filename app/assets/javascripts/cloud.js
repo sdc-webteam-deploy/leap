@@ -369,3 +369,8 @@ $("#new_progress_review").submit(function(a) {
         return null == $(this).val() ? (alert("Required field should not be blank."), $(this).focus(), a.preventDefault(), !1) : void 0
     }), !0
 })
+
+
+
+
+
