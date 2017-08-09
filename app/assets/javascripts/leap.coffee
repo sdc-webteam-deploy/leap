@@ -93,4 +93,3 @@ $(document).ready ->
 
   $('#tutorgroup_id').change ->
     document.location = $('#tutorgroup_id').val()
-    
